@@ -1,0 +1,13 @@
+[33mcommit 3a09dd6790d1cc0cb49218f73893e814a5644139[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: chaudhari sunny <chaudharisunny6@gmail.com>
+Date:   Mon Aug 11 23:55:01 2025 +0530
+
+    all code done
+
+.gitignore
+model/config.js
+model/shorten.js
+package-lock.json
+package.json
+router/index.js
+server.js
